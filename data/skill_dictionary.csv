@@ -1,0 +1,52 @@
+skill,category
+python,programming
+java,programming
+c++,programming
+c#,programming
+javascript,programming
+r,programming
+sql,database
+mysql,database
+postgresql,database
+mongodb,database
+sqlite,database
+pandas,data
+numpy,data
+excel,data
+power bi,data
+tableau,data
+data visualization,data
+statistics,data
+matplotlib,data
+machine learning,ml
+deep learning,ml
+scikit-learn,ml
+tensorflow,ml
+pytorch,ml
+keras,ml
+feature engineering,ml
+nlp,ml
+transformers,ml
+hugging face,ml
+llm,ml
+rag,ml
+computer vision,ml
+opencv,ml
+cnn,ml
+yolo,ml
+mlflow,ml
+fastapi,backend
+flask,backend
+django,backend
+rest api,backend
+aws,cloud
+azure,cloud
+gcp,cloud
+cloud deployment,cloud
+git,tools
+github,tools
+docker,tools
+kubernetes,tools
+linux,tools
+jupyter,tools
+streamlit,tools

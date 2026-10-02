@@ -1,0 +1,30 @@
+skill,learning_topic
+python,Python fundamentals: data types, functions, OOP and file handling
+sql,SQL basics: SELECT, JOIN, GROUP BY and subqueries
+excel,Excel: formulas, pivot tables and charts
+pandas,Pandas: DataFrames, cleaning and aggregation
+power bi,Power BI: build an interactive dashboard from a dataset
+data visualization,Data visualization with Matplotlib and Plotly
+statistics,Statistics: probability, distributions and hypothesis testing
+machine learning,Machine learning basics: regression, classification and evaluation
+scikit-learn,Scikit-learn: train and evaluate models with pipelines
+deep learning,Deep learning: neural networks with PyTorch or TensorFlow
+pytorch,PyTorch: build and train a neural network
+tensorflow,TensorFlow and Keras: build an image classifier
+fastapi,FastAPI basics: build and serve a REST API
+docker,Docker fundamentals: containerize an application
+mlflow,MLflow: track experiments and register models
+git,Git and GitHub: commits, branches and pull requests
+cloud deployment,Deploy an app on Streamlit Cloud or Render
+llm,LLMs: prompt engineering and using LLM APIs
+rag,RAG: embeddings, vector search and retrieval pipelines
+rest api,REST API design and consuming APIs with requests
+nlp,NLP basics: tokenization, TF-IDF and text classification
+transformers,Transformers: attention and fine-tuning models
+hugging face,Hugging Face: use pretrained models and pipelines
+opencv,OpenCV: image processing and detection basics
+cnn,CNNs: convolutional networks for image classification
+yolo,YOLO: train an object detection model
+computer vision,Computer vision fundamentals and projects
+flask,Flask: build a small web app with routes and templates
+django,Django: models, views and a CRUD app
