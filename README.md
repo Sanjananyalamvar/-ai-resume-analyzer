@@ -2,6 +2,8 @@
 
 An NLP-based Streamlit app that compares a resume with job roles, shows a match
 score, lists missing skills, and generates a simple learning roadmap.
+## Architecture
+![Architecture diagram](architecture_diagram.png)
 
 ## Features
 - Upload a PDF or DOCX resume (processed in memory, never saved)
