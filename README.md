@@ -46,3 +46,5 @@ Results are saved in `tests/testing_sheet.csv`.
 
 ## Author
 Your name, your college, year
+
+ **Live app:** https://resume-analyzer-sandy.streamlit.app/
