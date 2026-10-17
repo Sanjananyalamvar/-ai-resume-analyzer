@@ -1,0 +1,9 @@
+Test Resume,Expected Top Role,Actual Top Role,Score,Skills Found,Result
+resume_A,Data Analyst,Data Analyst,83.3,13,PASS
+resume_B,Machine Learning Engineer,Machine Learning Engineer,83.9,13,PASS
+resume_C,NLP Engineer,NLP Engineer,85.2,9,PASS
+resume_D,Full Stack Developer,Full Stack Developer,80.0,13,PASS
+resume_E,DevOps Engineer,DevOps Engineer,81.3,15,PASS
+resume_F,Data Scientist,Data Scientist,81.4,14,PASS
+resume_G_scanned,Data Analyst,-,-,-,SKIP (OCR not installed)
+resume_H_photo,Data Analyst,-,-,-,SKIP (OCR not installed)

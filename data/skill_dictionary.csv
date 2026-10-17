@@ -3,13 +3,69 @@ python,programming
 java,programming
 c++,programming
 c#,programming
+c programming,programming
 javascript,programming
-r,programming
+typescript,programming
+golang,programming
+rust,programming
+kotlin,programming
+swift,programming
+php,programming
+ruby,programming
+scala,programming
+dart,programming
+matlab,programming
+r programming,programming
+bash,programming
+powershell,programming
+perl,programming
+html,web
+css,web
+react,web
+angular,web
+vue.js,web
+next.js,web
+node.js,web
+express.js,web
+bootstrap,web
+tailwind css,web
+jquery,web
+sass,web
+redux,web
+webpack,web
+graphql,web
+rest api,web
+responsive design,web
+wordpress,web
+json,web
+websockets,web
+django,backend
+flask,backend
+fastapi,backend
+spring boot,backend
+asp.net,backend
+.net,backend
+laravel,backend
+ruby on rails,backend
+microservices,backend
+hibernate,backend
+jwt,backend
+oauth,backend
 sql,database
 mysql,database
 postgresql,database
 mongodb,database
 sqlite,database
+oracle,database
+sql server,database
+redis,database
+cassandra,database
+dynamodb,database
+firebase,database
+elasticsearch,database
+nosql,database
+database design,database
+stored procedures,database
 pandas,data
 numpy,data
 excel,data
@@ -18,35 +74,179 @@ tableau,data
 data visualization,data
 statistics,data
 matplotlib,data
+seaborn,data
+plotly,data
+looker,data
+data cleaning,data
+data analysis,data
+etl,data
+data warehousing,data
+data modeling,data
+a/b testing,data
+google analytics,data
+spss,data
+sas,data
+power query,data
+dax,data
+hypothesis testing,data
+looker studio,data
+scipy,data
 machine learning,ml
 deep learning,ml
 scikit-learn,ml
 tensorflow,ml
 pytorch,ml
 keras,ml
+xgboost,ml
+lightgbm,ml
 feature engineering,ml
 nlp,ml
 transformers,ml
 hugging face,ml
 llm,ml
 rag,ml
+langchain,ml
+prompt engineering,ml
 computer vision,ml
 opencv,ml
 cnn,ml
+rnn,ml
+lstm,ml
 yolo,ml
 mlflow,ml
-fastapi,backend
-flask,backend
-django,backend
-rest api,backend
+reinforcement learning,ml
+time series,ml
+recommendation systems,ml
+generative ai,ml
+vector database,ml
+spacy,ml
+nltk,ml
+model deployment,ml
+neural networks,ml
+object detection,ml
+image processing,ml
+regression,ml
+classification,ml
+clustering,ml
+spark,bigdata
+pyspark,bigdata
+hadoop,bigdata
+kafka,bigdata
+airflow,bigdata
+hive,bigdata
+databricks,bigdata
+snowflake,bigdata
+bigquery,bigdata
+dbt,bigdata
+data pipelines,bigdata
+data lake,bigdata
 aws,cloud
 azure,cloud
 gcp,cloud
 cloud deployment,cloud
+cloud computing,cloud
+ec2,cloud
+s3,cloud
+lambda,cloud
+serverless,cloud
+azure data factory,cloud
+cloudformation,cloud
+vpc,cloud
+iam,cloud
+docker,devops
+kubernetes,devops
+jenkins,devops
+ci/cd,devops
+terraform,devops
+ansible,devops
+github actions,devops
+gitlab,devops
+linux,devops
+nginx,devops
+prometheus,devops
+grafana,devops
+infrastructure as code,devops
+shell scripting,devops
+helm,devops
 git,tools
 github,tools
-docker,tools
-kubernetes,tools
-linux,tools
 jupyter,tools
 streamlit,tools
+postman,tools
+jira,tools
+google colab,tools
+swagger,tools
+vs code,tools
+confluence,tools
+anaconda,tools
+android,mobile
+android studio,mobile
+ios,mobile
+flutter,mobile
+react native,mobile
+jetpack compose,mobile
+xcode,mobile
+swiftui,mobile
+mobile app development,mobile
+selenium,testing
+junit,testing
+pytest,testing
+cypress,testing
+unit testing,testing
+manual testing,testing
+test automation,testing
+api testing,testing
+testng,testing
+jmeter,testing
+load testing,testing
+test cases,testing
+bug tracking,testing
+regression testing,testing
+cybersecurity,security
+network security,security
+ethical hacking,security
+penetration testing,security
+wireshark,security
+kali linux,security
+siem,security
+owasp,security
+cryptography,security
+vulnerability assessment,security
+incident response,security
+firewall,security
+information security,security
+figma,design
+adobe xd,design
+ui design,design
+ux design,design
+wireframing,design
+prototyping,design
+photoshop,design
+user research,design
+data structures,concepts
+algorithms,concepts
+oop,concepts
+design patterns,concepts
+system design,concepts
+agile,concepts
+scrum,concepts
+dbms,concepts
+operating systems,concepts
+computer networks,concepts
+version control,concepts
+multithreading,concepts
+business analysis,business
+requirement gathering,business
+uml,business
+process modeling,business
+stakeholder management,business
+user stories,business
+unity,other
+unreal engine,other
+game development,other
+arduino,other
+raspberry pi,other
+iot,other
+embedded systems,other
+blockchain,other
+solidity,other
